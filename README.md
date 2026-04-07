@@ -7,7 +7,7 @@ Backend utilities for QuCore Dynamic services: **_JWT validation_**, **_request 
 ```bash
 npm install @qucore-dynamic/packages
 # or for GitHub
-npm install github:ArtemZhyto/QuCore-Dynamic-Packages#main
+npm install github:qucore-dynamic/qucore-dynamic-packages#main
 ```
 
 ## Usage
